@@ -58,17 +58,66 @@ of other people about a person, object or event.
 
 - **Law**: people never do something just once. They will inevitably repeat their bad behavior.
 - **Example**: Howard Hughes Jr. - an American business magnate, investor, record-setting pilot, 
-engineer, film director, and philanthropist - had a weak character starting from his childhood. He managed to disguise
-it in his early career which brought him success. However it manifested later in hist life and resulted in many
-failures e.g. Hughes Aircraft Company.                     
+engineer, film director, and philanthropist - had a weak character since his childhood. He managed to disguise
+it in his early career which brought him success. However it manifested later in his life and resulted in many
+failures including Hughes Aircraft Company.                     
 - **Advice**: train yourself to look deep within people and see their character. Always gravitate toward those 
 who display signs of strength, and avoid the many toxic types out there.
 
 ## 5. The Law of Covetousness
 
-- **Law**: people continually desire to possess what they don't have
+- **Law**: people continually desire to possess what they don't have.
 - **Example**: Coco Chanel - a French fashion designer and business woman - became so successful not only because she
-created great products but because she understood how to play with people's desires and fantasies.                     
+created great products but because she understood that people desire what they don't have and created an air of
+mystery around her work.                     
 - **Advice**: become an elusive object of desire.
 
+## 6. The Law of Shortsightedness
+
+- **Law**: people tend to overreact to present circumstances and ignore what will happen in the future.
+- **Example**: The South Sea Company - a British joint-stock company founded in 1711 - became known as the 
+South Sea Bubble. It was obvious that the company can't succeed long-term but it didn't stop many people from investing
+in its shares.                    
+- **Advice**: when making decisions think about the near and far future.
+
+## 7. The Law of Defensiveness
+
+- **Law**: people don't like when someone is trying to change their opinion.
+- **Example**: Lyndon Johnson - the 36th president of the United States - gained his influence and power by focusing on 
+others, letting them do the talking, letting them be the stars of the show.                   
+- **Advice**: soften people's resistance by confirming their self-opinion.
+
+**Five Strategies for Becoming a Master Persuader**:
+
+- Transform yourself into a deep listener.
+- Infect people with the proper mood.
+- Confirm their self-opinion.
+- Allay their insecurities.
+- Use people's resistance and stubbornness.
+
+## 8. The Law of Self-sabotage
+
+- **Law**: our attitude determines much of what happens in our life. 
+- **Example**: Anton Chekhov - a Russian playwright and short-story writer - had a tough childhood but in spite of that
+was able to change his life by changing his view of the world from negative to positive.               
+- **Advice**: change your circumstances by changing your attitude.
+
+## 9. The Law of Repression
+
+- **Law**: people are rarely who they seem to be. Lurking beneath their polite, affable exterior is inevitably a dark,
+shadow side consisting of the insecurities and the aggressive, selfish impulses they repress and carefully conceal 
+from public view.
+- **Example**: Richard Nixon - the 37th president of the United States - always had a positive image in the public. 
+Everything changed after the [Watergate scandal](https://en.wikipedia.org/wiki/Watergate_scandal) which revealed his hidden personality.
+- **Advice**: be aware of your own dark side. Control and channel the creative energies that lurk in your unconscious.
+By integrating the dark side into your personality, you will be a more complete human and will radiate an authenticity 
+that will draw people to you.
+
+## 10. The Law of Envy
+
+- **Law**: people are envious.
+- **Example**: [Mary Shelley](https://en.wikipedia.org/wiki/Mary_Shelley) - author of the novel Frankenstein - 
+was betrayed by her close friend who envied her. 
+- **Advice**: learn to deflect envy by drawing attention away from yourself. 
+Develop your sense of self-worth from internal standards and not incessant comparisons.
 
