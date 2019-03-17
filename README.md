@@ -1,5 +1,6 @@
 # The Laws of Human Nature Cheat Sheet
 
+[The Laws of Human Nature by Robert Greene](https://www.amazon.com/Laws-Human-Nature-Robert-Greene/dp/0525428143). 
 For every law the author provides an example from history, interprets and explains it and gives advice on how to use the 
 law. 
 
