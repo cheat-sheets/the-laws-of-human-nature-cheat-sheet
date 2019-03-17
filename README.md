@@ -243,5 +243,5 @@ By becoming deeply aware of our mortality, we intensify our experience of every 
 
 - Baby boomers (born 1946 to 1964)
 - Generation X (born 1960s to 1980s)
-- Millennials (born 1980s to 2000s)
+- Generation Y (a.k.a. Millennials) (born 1980s to 2000s)
 - Generation Z (born 1990s to 2010s)
