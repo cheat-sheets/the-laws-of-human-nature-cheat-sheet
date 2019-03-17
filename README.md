@@ -73,7 +73,8 @@ who display signs of strength, and avoid the many toxic types out there.
 ## 5. The Law of Covetousness
 
 - **Law**: People continually desire to possess what they don't have.
-- **Example**: Coco Chanel - a French fashion designer and business woman - became so successful not only because she
+- **Example**: [Coco Chanel](https://en.wikipedia.org/wiki/Coco_Chanel) - a French fashion designer and business woman - 
+became so successful not only because she
 created great products but because she understood that people desire what they don't have and created an air of
 mystery around her work.                     
 - **Advice**: Become an elusive object of desire.
@@ -81,7 +82,8 @@ mystery around her work.
 ## 6. The Law of Shortsightedness
 
 - **Law**: People tend to overreact to present circumstances and ignore what will happen in the future.
-- **Example**: The South Sea Company - a British joint-stock company founded in 1711 - became known as the 
+- **Example**: [The South Sea Company](https://en.wikipedia.org/wiki/South_Sea_Company) - a British joint-stock 
+company founded in 1711 - became known as the 
 South Sea Bubble. It was obvious that the company can't succeed long-term but it didn't stop many people from investing
 in its shares.                    
 - **Advice**: When making decisions think about the near and far future.
@@ -105,7 +107,8 @@ others, letting them do the talking, letting them be the stars of the show.
 ## 8. The Law of Self-sabotage
 
 - **Law**: Our attitude determines much of what happens in our life. 
-- **Example**: Anton Chekhov - a Russian playwright and short-story writer - had a tough childhood but in spite of that
+- **Example**: [Anton Chekhov](https://en.wikipedia.org/wiki/Anton_Chekhov) - a Russian playwright and short-story 
+writer - had a tough childhood but in spite of that
 was able to change his life by changing his view of the world from negative to positive.               
 - **Advice**: Change your circumstances by changing your attitude.
 
@@ -114,7 +117,8 @@ was able to change his life by changing his view of the world from negative to p
 - **Law**: People are rarely who they seem to be. Lurking beneath their polite, affable exterior is inevitably a dark,
 shadow side consisting of the insecurities and the aggressive, selfish impulses they repress and carefully conceal 
 from public view.
-- **Example**: Richard Nixon - the 37th president of the United States - always had a positive image in the public. 
+- **Example**: [Richard Nixon](https://en.wikipedia.org/wiki/Richard_Nixon) - the 37th president of the 
+United States - always had a positive image in the public. 
 Everything changed after the [Watergate scandal](https://en.wikipedia.org/wiki/Watergate_scandal) which revealed his hidden personality.
 - **Advice**: Be aware of your own dark side. Control and channel the creative energies that lurk in your unconscious.
 By integrating the dark side into your personality, you will be a more complete human and will radiate an authenticity 
