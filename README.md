@@ -9,11 +9,11 @@ law.
 
 ## 1. The Law of Irrationality
    
-- **Law**: Often people are affected by emotions and behave irrationally without realizing it. This leads to suboptimal
-actions and decisions.
+- **Law**: Often people are dominated by emotions and behave irrationally without realizing it. This is the source of 
+bad decisions and negative patterns in life.
 - **Example**: Athenes prospered when it was led by Pericles in 400 BC. 
-[Pericles](https://en.wikipedia.org/wiki/Pericles) was a very rational 
-man who could control his emotions. After he left the political arena Athenes started to regress.
+[Pericles](https://en.wikipedia.org/wiki/Pericles) is believed to be a very rational man. After he left the 
+political arena Athenes started to regress.
 - **Advice**: You need to control your emotions and behave rationally.
 
 **Biases that distort our thought processes and decisions**:
