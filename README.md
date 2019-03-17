@@ -1,6 +1,6 @@
 # The Laws of Human Nature Cheat Sheet
 
-[The Laws of Human Nature by Robert Greene](https://www.amazon.com/Laws-Human-Nature-Robert-Greene/dp/0525428143). 
+[The Laws of Human Nature by Robert Greene](https://www.amazon.com/Laws-Human-Nature-Robert-Greene/dp/0525428143)
 
 For every law the author provides an example from history, interprets and explains it and gives advice on how to use the 
 law. 
@@ -16,24 +16,6 @@ bad decisions and negative patterns in life.
 [Pericles](https://en.wikipedia.org/wiki/Pericles) is believed to be a very rational man. After he left the 
 political arena Athenes started to regress.
 - **Advice**: You need to control your emotions and behave rationally.
-
-**Biases that distort our thought processes and decisions**:
-
-- Confirmation Bias: I look at the evidence and arrive at my decisions through more or less rational processes.
-- Conviction Bias: I believe in this idea so strongly. It must be true.
-- Appearance Bias: I understand the people I deal with; I see them just as they are.                     
-- The Group Bias: My ideas are my own. I do not listen to the group. I am not a conformist.
-- The Blame Bias: I learn from my experience and mistakes.
-- Superiority Bias: I'm different. I'm more rational than others, more ethical as well.
-
-**Strategies Toward Bringing Out the Rational Self**:
-
-- Know yourself thoroughly
-- Examine your emotions to their roots
-- Increase your reaction time
-- Accept people as facts
-- Find the optimal balance of thinking and emotion
-- Love the rational
 
 ## 2. The Law of Narcissism
 
@@ -220,13 +202,6 @@ hungers for. You will free your mind from the mental constraints placed on you b
 and you will become more of the individual you imagine yourself to be, with all the power that 
 freedom will bring you.
 
-[**Generations**](https://en.wikipedia.org/wiki/Generation):
-
-- Baby boomers (born 1946 to 1964)
-- Generation X (born 1960s to 1980s)
-- Millennials (born 1980s to 2000s)
-- Generation Z (born 1990s to 2010s)
-
 ## 18. The Law of Death Denial
        
 - **Law**: Most people spend their lives avoiding the thought of death.
@@ -244,4 +219,29 @@ of ours. Most people continually look for ways to separate themselves from other
 Instead, we must see the mortality in everyone, how it equalizes and connects us all. 
 By becoming deeply aware of our mortality, we intensify our experience of every aspect of life.
 
+## Extra
 
+**Biases that distort our thought processes and decisions**:
+
+- Confirmation Bias: I look at the evidence and arrive at my decisions through more or less rational processes.
+- Conviction Bias: I believe in this idea so strongly. It must be true.
+- Appearance Bias: I understand the people I deal with; I see them just as they are.                     
+- The Group Bias: My ideas are my own. I do not listen to the group. I am not a conformist.
+- The Blame Bias: I learn from my experience and mistakes.
+- Superiority Bias: I'm different. I'm more rational than others, more ethical as well.
+
+**Strategies Toward Bringing Out the Rational Self**:
+
+- Know yourself thoroughly
+- Examine your emotions to their roots
+- Increase your reaction time
+- Accept people as facts
+- Find the optimal balance of thinking and emotion
+- Love the rational
+
+[**Generations**](https://en.wikipedia.org/wiki/Generation):
+
+- Baby boomers (born 1946 to 1964)
+- Generation X (born 1960s to 1980s)
+- Millennials (born 1980s to 2000s)
+- Generation Z (born 1990s to 2010s)
