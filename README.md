@@ -195,8 +195,7 @@ constraining your mind.
 - **Example**: [King Louis XVI of France](https://en.wikipedia.org/wiki/Louis_XVI_of_France) is shown as an example of 
 someone out of tune with the times. He fell victim to the French revolution when France was declared to be a Republic 
 and abolished the monarchy. He was executed in 1793.
-- **Advice**: Your task is to understand as deeply as possible this powerful influence on who you are and how you see 
-the world. Knowing in depth the spirit of your generation and the times you live in, you will be 
+- **Advice**: Knowing in depth the spirit of your generation and the times you live in, you will be 
 better able to exploit the zeitgeist. You will be the one to anticipate and set the trends that your generation 
 hungers for. You will free your mind from the mental constraints placed on you by your generation, 
 and you will become more of the individual you imagine yourself to be, with all the power that 
